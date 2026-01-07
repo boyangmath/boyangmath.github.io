@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Undergraduate complex analysis"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Xiamen University"
+date: since 2018
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+=======
 
-Heading 1
-======
+This is a standard undergraduate course in complex analysis of a single complex variable. We follow a textbook in Chinese and Chapter 1-3 in Stein-Shakarchi.
 
-Heading 2
-======
-
-Heading 3
 ======
