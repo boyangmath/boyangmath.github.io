@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I.
+I have worked at Xiamen University since 2017. My research interests lie in complex diferential geometry, in particular bisectional curvature and holomorphic sectional curvature of Kähler and Hermitian manifolds, and their connections to Ricci flow and other subjects.
