@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate complex analysis"
+title: "Complex analysis (undergraduate)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
