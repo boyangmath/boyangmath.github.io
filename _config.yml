@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Bo Yang"
-  pronouns         : # example: "she/her"  
+ # pronouns         : # example: "she/her"  
  # bio              : "Short biography for the left-hand sidebar"
- # location         : ""
+  location         : "Xiamen, China"
   employer         : "Xiamen University"
-  uri              : # URL
+ # uri              : # URL
   email            : "boyang@xmu.edu.cn" 
 
   # Academic websites
