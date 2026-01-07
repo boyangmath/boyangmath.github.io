@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-Recently I am interested in bisectional curvature and holomorphic sectional curvature in K\"ahler and Hermitian geometry, and their connections to Ricci flow and other subjects.
+Recently I am interested in bisectional curvature and holomorphic sectional curvature in \(K\"ahler\) and Hermitian geometry, and their connections to Ricci flow and other subjects.
